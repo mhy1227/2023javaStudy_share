@@ -25,15 +25,20 @@
 ## 3. 当前已有文件
 
 - [springcloud-high-frequency-qa.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/high-frequency-and-mock/springcloud-high-frequency-qa.md)
+- [springcloud-answer-pack-0-1min-0-3min.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/high-frequency-and-mock/springcloud-answer-pack-0-1min-0-3min.md)
+- [springcloud-mock-oral-script.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/high-frequency-and-mock/springcloud-mock-oral-script.md)
+- [springcloud-final-review-checklist.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/high-frequency-and-mock/springcloud-final-review-checklist.md)
+- [springcloud-scene-deep-questions.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/high-frequency-and-mock/springcloud-scene-deep-questions.md)
 
 ## 4. 后续会怎么补
 
-后面这里大概率会继续补：
+当前已经完成：
 
-- `0-1` 分钟回答包
-- `0-3` 分钟回答包
-- 组件对比题
+- 高频问题
+- `0-1` 分钟和 `0-3` 分钟回答包
 - mock 连环追问
+- 最终复盘清单
+- 情景深挖问题清单
 
 ## 5. 一句话总结
 

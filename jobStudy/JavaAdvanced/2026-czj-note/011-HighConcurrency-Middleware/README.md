@@ -35,6 +35,8 @@
 ## 3. 当前目录索引
 
 - [mq-async-peak-shaving-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/011-HighConcurrency-Middleware/mq-async-peak-shaving-note.md)
+- [mq-reliability-idempotency-qa.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/011-HighConcurrency-Middleware/mq-reliability-idempotency-qa.md)
+- [mq-scene-deep-questions.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/011-HighConcurrency-Middleware/mq-scene-deep-questions.md)
 - [distributed-lock-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/011-HighConcurrency-Middleware/distributed-lock-note.md)
 - [distributed-id-snowflake-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/011-HighConcurrency-Middleware/distributed-id-snowflake-note.md)
 - [distributed-id-solution-comparison-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/011-HighConcurrency-Middleware/distributed-id-solution-comparison-note.md)

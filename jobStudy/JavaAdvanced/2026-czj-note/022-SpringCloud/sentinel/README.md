@@ -40,6 +40,9 @@
 - [service-avalanche-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/sentinel/service-avalanche-note.md)
 - [flow-control-circuit-breaker-degrade-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/sentinel/flow-control-circuit-breaker-degrade-note.md)
 - [sentinel-rules-and-scenarios-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/sentinel/sentinel-rules-and-scenarios-note.md)
+- [sentinel-advanced-questions-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/sentinel/sentinel-advanced-questions-note.md)
+- [sentinel-project-scenario-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/sentinel/sentinel-project-scenario-note.md)
+- [sentinel-mock-oral-script.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/sentinel/sentinel-mock-oral-script.md)
 - [sentinel-high-frequency-qa.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/sentinel/sentinel-high-frequency-qa.md)
 - [sentinel-answer-pack-0-1min.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/sentinel/sentinel-answer-pack-0-1min.md)
 - [sentinel-answer-pack-0-3min.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/sentinel/sentinel-answer-pack-0-3min.md)
@@ -53,6 +56,7 @@
 3. Sentinel 通过限流、熔断、降级保护系统
 4. 限流解决流量过高，熔断解决依赖不稳定，降级解决失败兜底
 5. 规则配置要结合压测、历史流量和业务优先级
+6. 项目里要分清入口层保护和服务内部保护
 
 ## 6. 当前先记住什么
 
@@ -63,6 +67,8 @@
 3. 限流挡流量，熔断断依赖，降级给兜底
 4. Gateway 管入口，Feign 管调用，Sentinel 管保护
 5. 降级结果必须业务可接受，核心写操作不能随便降级成成功
+6. 熔断不是永久关闭，恢复要靠统计窗口和逐步放开
+7. 入口层做粗保护，服务层做细保护
 
 ## 7. 一句话总结
 

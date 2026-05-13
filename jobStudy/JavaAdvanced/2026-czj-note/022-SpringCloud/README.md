@@ -39,6 +39,7 @@
 9. `sentinel/`
 10. `seata/`
 11. `high-frequency-and-mock/`
+12. `extra-questions-and-comparison/`
 
 后面更自然的扩展顺序是：
 
@@ -62,6 +63,7 @@
 - 注册中心
 - 微服务调用链
 - 服务雪崩、熔断、限流、降级
+- 组件对比与链路追踪
 
 如果后面要继续扩，也可以补：
 

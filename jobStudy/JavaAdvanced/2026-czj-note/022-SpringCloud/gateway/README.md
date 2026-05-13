@@ -42,6 +42,7 @@
 - [gateway-basic-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/gateway/gateway-basic-note.md)
 - [gateway-route-filter-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/gateway/gateway-route-filter-note.md)
 - [gateway-auth-limit-gray-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/gateway/gateway-auth-limit-gray-note.md)
+- [gateway-rate-limit-deep-qa.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/gateway/gateway-rate-limit-deep-qa.md)
 - [gateway-advanced-questions-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/gateway/gateway-advanced-questions-note.md)
 - [gateway-project-scenario-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/gateway/gateway-project-scenario-note.md)
 - [gateway-vs-nginx-note.md](D:/CourseShop_2/2023javaStudy_share/jobStudy/JavaAdvanced/2026-czj-note/022-SpringCloud/gateway/gateway-vs-nginx-note.md)
@@ -72,6 +73,7 @@
 4. 过滤器决定请求前后做什么
 5. 网关适合做通用入口治理，不适合堆复杂业务逻辑
 6. Nginx 更偏基础入口，Gateway 更偏微服务治理
+7. 网关限流要考虑 IP、用户、接口、分布式计数和误伤控制
 
 ## 7. 一句话总结
 
